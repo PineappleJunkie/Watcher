@@ -9,5 +9,3 @@ _To_Do_
 
 # How to contribute.
 __Simply clone and add!__
-
-I'm testing!
